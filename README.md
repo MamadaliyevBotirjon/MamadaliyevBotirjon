@@ -4,5 +4,5 @@
   
   ### Languages and tools I work with:
   
-  <code><img src="https://banner2.cleanpng.com/20180526/owx/kisspng-html-computer-icons-web-development-bootstrap-5b0a25293828a9.92335899152739152923.jpg"></code>
+  <code><img src="https://avatars.mds.yandex.net/i?id=2833bb6a78ac53d57fa8d6f4acc2b137-5500206-images-thumbs&n=13"></code>
 
