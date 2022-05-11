@@ -4,5 +4,5 @@
   
   ### Languages and tools I work with:
   
-  <code><img src="https://w7.pngwing.com/pngs/147/317/png-transparent-html-computer-icons-web-development-bootstrap-world-wide-web-text-trademark-orange.png" width='30px'></code>
+  <code><img src="https://e7.pngegg.com/pngimages/329/783/png-clipart-html-logo-world-wide-web-cdr-angle.png" width='30px'></code>
 
